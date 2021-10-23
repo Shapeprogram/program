@@ -1,0 +1,275 @@
+body
+{
+	background-color:rgb(250,250,255);
+	margin:0%;
+	font-family:Helvetica;
+}
+header img
+{
+	margin:0px;
+	display: block;
+}
+
+#bann
+{
+	margin:0%;
+	margin-left:10%;
+	border-left: 1px solid darkgrey;
+	border-right: 1px solid darkgrey;
+	width: 80%;
+}
+
+tab
+{
+	margin:0%;
+	background-color:rgb(218,165,32)/*crimson , rouge*/;
+	display: block;
+	width:80%;
+	height: 30px;
+	border-left: 1px solid darkgrey;
+	border-right: 1px solid darkgrey;
+	border-bottom: 1px solid darkgrey;
+	margin-left:10%;
+	overflow: hidden;
+	
+}
+
+tab a
+{
+	display:inline-block;
+	padding:0%;
+	padding-top:5px;
+	width :16.6%;
+	height:25px;
+	text-align:center;
+	text-decoration: none;
+	color:white;
+	background-color:rgb(240,185,32)/*crimson , rouge*/;
+	font-size:20px;
+
+}
+
+tab a:hover
+{
+	color: black;
+}
+
+.borderright
+{
+	border-right:1px solid darkgrey;
+}
+
+#front
+{
+	display:block;
+	background-color: white;
+	margin:0%;
+	border-left: 1px solid darkgrey;
+	border-right: 1px solid darkgrey;
+	border-bottom:1px double darkgrey;
+	width:80%;
+	margin-left:10%;
+
+}
+#front p
+{
+	margin:0px;
+	padding-top:3px;
+	padding-bottom:3px;
+	color:dimgrey;
+	font-size:12px;
+	text-align:center;
+}
+
+#midlane
+{
+	display: block;
+	background-color:white;
+	border :1px solid darkgrey;
+	width:80%;
+	margin-left:10%;
+	margin-top:5px;
+	padding-bottom: 20px;
+
+}
+h1
+{
+	display: inline-block;
+	text-align: center;
+	border-bottom:1px solid black;
+	width:50%;
+	margin-left:25%;
+	padding-bottom:9px;
+	font-weight:normal;
+	font-family:Optima;
+}
+#midlane p
+{
+	font-size:18px;
+}
+
+.menuacc
+{
+	width:95%;
+	border:1px solid black;
+	margin-left:2.5%;
+}
+.menuacc th
+{
+	border:1px solid darkgrey;
+	width: 50%;
+	font-weight: normal;
+	font-family:Optima;
+	size:2px;
+}
+.menuacc td
+{
+	color:rgb(43,56,86);
+
+}
+
+#wrap
+{
+	display: block;
+	width: 85%;
+	margin-left:7.5%;
+	border:2px solid darkgrey;
+	padding:10px;
+}
+#wrap2
+{
+	display: block;
+	width:100%;
+	border-top:1px solid darkgrey;
+	border-bottom:1px solid darkgrey;
+	padding-top:10px;
+	padding-bottom:10px;
+	text-align:center;
+}
+
+.menuadmin
+{
+	border : 2px double darkgrey;
+	padding:6px;
+	width : 80%;
+	margin-left:10%;
+}
+
+.comment
+{
+	border:1px solid darkgrey;
+	width:80%;
+	margin-left:10%;
+}
+.comment #nom
+{
+	border-bottom:1px solid darkgrey;
+	color:rgb(43,56,86);
+	text-align:center;
+	margin-top:0px;
+	margin-bottom:0px;
+}
+.comment #comment
+{
+	margin-left:5px;
+}
+#topic
+{
+	text-align:center;
+}
+
+#forumsub
+{
+	border:1px solid darkgrey;
+	text-align:center;
+}
+#forumsub a
+{
+	text-decoration: none;
+}
+
+#menuforum
+{
+	border-bottom:0.5px solid darkgrey;
+	text-align:center;
+
+}
+
+#menuforum a
+{
+	text-decoration: none;
+
+}
+
+#actu
+{
+	border:2px solid darkgrey;
+	width:80%;
+	margin-left:10%;
+}
+#actu #droite
+{
+	text-align:center;
+}
+
+#mission
+{
+
+	width:60%;
+	margin-left:20%;
+	border:2px solid darkgrey;
+}
+#mission h4
+{
+	text-align: center;
+}
+
+#mission p
+{
+	margin-left:10px;
+}
+
+.formulaireco
+{
+	border:1px solid darkgrey;
+	width:50%;
+	margin-left:25%;
+}
+
+.formulaireco h4
+{
+	width:100%;
+	text-align:center;
+}
+
+.mot
+{
+	width:50%;
+	margin-left:25%;
+}
+
+#config
+{
+	margin-top:20px;
+	width:51%;
+	margin-left:25%;
+	border:2px solid black;
+	background-color:rgb(218,165,32);
+	margin-bottom:20px;
+}
+
+#red
+{
+	color:red;
+	width:80%;
+	margin-left:10%;
+	border : 1px solid darkgrey;
+	text-align: center;
+}
+
+.forumb
+{
+	width:50%;
+	margin-left:25%;
+	border:1px solid black;
+}
