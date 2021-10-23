@@ -38,7 +38,7 @@ if(file_exists($head))
 
     </div>
     <div class="pdflink">
-        <p> If the website isn't clear enough, you can download the PDF version of the program here : <a href="https://github.com/Shapeprogram/program/raw/main/24OCT21-QR.pdf" class="btn btn-outline-info" role="button">Download the PDF</a></p>
+        <p> If the website isn't clear enough, you can download the PDF version of the program here : <a href="./doc/24OCT21-QR.pdf" class="btn btn-outline-info" download="pdf-shape-program" role="button">Download the PDF</a></p>
     </div>
 
 <?php 
