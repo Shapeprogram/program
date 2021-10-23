@@ -8,10 +8,7 @@
 		<link rel="shortcut icon" type="image/png" href="./img/Churchlogo.png"/>
 </head>
 <body>
-	<header>
-	</header>
-	<section id="front">
-
-	</section>
-
+    <header>
+    <img src="./img/Churchshapelogo.jpg" alt="Church logo" id="bann">
+    </header>
 	<section id="midlane">
