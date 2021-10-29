@@ -37,9 +37,11 @@ if(file_exists($head))
         </p>
 
     </div>
+    <!--
     <div class="pdflink">
         <p class="fs-4"> If the website isn't clear enough, you can download the PDF version of the program here : <a href="./doc/24OCT21-QR.pdf" class="btn btn-outline-info" download="pdf-shape-program" role="button">Download the PDF</a></p>
     </div>
+    -->
 
 <?php 
 	$foot='./php/foot.php';
