@@ -28,9 +28,9 @@ if(file_exists($head))
         <h2>Announcements</h2>
         <p><strong>31 Oct </strong>: Fifth Sunday lesson (Adults/Youth) second hour</p>
 
-        <p><strong>6 Nov </strong>: 16:00 to 18:00 Stake leadership Meeting - 18:30 Adult Session</p>
+        <p><strong>6 Nov </strong>: <br>- 16:00 to 18:00 Stake leadership Meeting <br>- 18:30 Adult Session</p>
 
-        <p><strong>7 Nov </strong>: 10:00 to 12:00 Stake Conference Session for All - 12:30 to 13:00 Temple and family history meeting (Temple /Family History leaders and consultants) - 18:00 to 19:00 Fireside (Family History Devotional)</p>
+        <p><strong>7 Nov </strong>: <br>-10:00 to 12:00 Stake Conference Session for All <br>- 12:30 to 13:00 Temple and family history meeting (Temple /Family History leaders and consultants) <br>- 18:00 to 19:00 Fireside (Family History Devotional)</p>
 
         <p><strong>Donations </strong>: We would like to share with you an email that Alice and Marcel Bastiaens from the Brussels Center Ward recently sent:
             “We would like to collect new or used toys from members, as well as Saint Nicholas and Christmas treats for affected children. “We will come and collect them in the units until November 15.”
