@@ -6,27 +6,28 @@ if(file_exists($head))
 }
 ?>
 
-    <h1>Church Program - 31 October 2021</h1>
+    <h1>Church Program - 21 November 2021</h1>
     <div class="program">
         <h2>Program</h2>
-        <p class="fs-3"><strong>Opening hymn </strong>: 123 Oh, May My Soul Commune with Thee</p>
+        <p class="fs-3"><strong>Opening hymn </strong>: 94 Come, Ye Thankful People Come</p>
 
         <p class="fs-3"><strong>Opening prayer </strong> : By invitation</p>
 
-        <p class="fs-3"><strong>Sacrament hymn </strong>: 170 God, Our Father, Hear Us Pray</p>
+        <p class="fs-3"><strong>Sacrament hymn </strong>: 146 Gently Raise the Sacred Strain</p>
 
-        <p class="fs-3"><strong>Speaker </strong>: Brother Kenneth Baami</p>
+        <p class="fs-3"><strong>Speaker </strong>: Sister Riding</p>
 
-        <p class="fs-3"><strong>Intermediate hymn </strong>: 266 The Time is Far Spent</p>
+        <p class="fs-3"><strong>Intermediate hymn </strong>: 227 There Is Sunshine in My Soul Today</p>
 
-        <p class="fs-3"><strong>Speaker </strong>: Brother Doug Shepherd</p>
+        <p class="fs-3"><strong>Speaker </strong>: Brother Mesotten</p>
 
-        <p class="fs-3"><strong>Closing Hymn </strong>: 131 More Holiness Give Me</p>
+        <p class="fs-3"><strong>Closing Hymn </strong>: 161 The Lord Be with U</p>
     </div>
 
     <div class="program">
         <h2>Announcements</h2>
-        <p class="fs-3"><strong>31 Oct </strong>: Fifth Sunday lesson (Adults/Youth) second hour</p>
+        <p class="fs-3"><strong>No announcements</strong></p>
+        <!-- <p class="fs-3"><strong>31 Oct </strong>: Fifth Sunday lesson (Adults/Youth) second hour</p>
 
         <p class="fs-3"><strong>6 Nov </strong>: <br>- 16:00 to 18:00 Stake leadership Meeting <br>- 18:30 Adult Session</p>
 
@@ -34,7 +35,7 @@ if(file_exists($head))
 
         <p class="fs-3"><strong>Donations </strong>: We would like to share with you an email that Alice and Marcel Bastiaens from the Brussels Center Ward recently sent:
             “We would like to collect new or used toys from members, as well as Saint Nicholas and Christmas treats for affected children. “We will come and collect them in the units until November 15.”
-        </p>
+        </p> -->
 
     </div>
     <!--
