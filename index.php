@@ -6,7 +6,7 @@ if(file_exists($head))
 }
 ?>
 
-    <h1>Church Program - 21 November 2021</h1>
+    <h1>Church Program - 28 November 2021</h1>
     <div class="program">
         <h2>Program</h2>
         <p class="fs-3"><strong>Opening hymn </strong>: 93 Prayer of Thanksgiving </p>
