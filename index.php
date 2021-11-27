@@ -9,19 +9,21 @@ if(file_exists($head))
     <h1>Church Program - 21 November 2021</h1>
     <div class="program">
         <h2>Program</h2>
-        <p class="fs-3"><strong>Opening hymn </strong>: 94 Come, Ye Thankful People Come</p>
+        <p class="fs-3"><strong>Opening hymn </strong>: 93 Prayer of Thanksgiving </p>
 
         <p class="fs-3"><strong>Opening prayer </strong> : By invitation</p>
 
-        <p class="fs-3"><strong>Sacrament hymn </strong>: 146 Gently Raise the Sacred Strain</p>
+        <p class="fs-3"><strong>Sacrament hymn </strong>: 179 God, Our Father, Hear us Pray</p>
 
-        <p class="fs-3"><strong>Speaker </strong>: Sister Riding</p>
+        <p class="fs-3"><strong>Speaker </strong>: Brother Trujillo</p>
 
-        <p class="fs-3"><strong>Intermediate hymn </strong>: 227 There Is Sunshine in My Soul Today</p>
+        <p class="fs-3"><strong>Speaker </strong>: Elder Pang Siang</p>
 
-        <p class="fs-3"><strong>Speaker </strong>: Brother Mesotten</p>
+        <p class="fs-3"><strong>Intermediate hymn </strong>: 219 Because I Have Been Given Much </p>
 
-        <p class="fs-3"><strong>Closing Hymn </strong>: 161 The Lord Be with U</p>
+        <p class="fs-3"><strong>Speaker </strong>: Elder MeJean</p>
+
+        <p class="fs-3"><strong>Closing Hymn </strong>: 222 Hear Thou Our Hymn, O Lord</p>
     </div>
 
     <div class="program">
