@@ -25,7 +25,7 @@ if(file_exists($head))
 
         <p class="fs-3"><strong>Closing Hymn </strong>: 208 O Little Town of Bethlehem </p>
 
-        <p class="fs-3"><strong>Closing prayer </strong>: by invitation </p>
+        <p class="fs-3"><strong>Closing prayer </strong>: By invitation </p>
     </div>
 
     <div class="program">
