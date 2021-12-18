@@ -1,6 +1,7 @@
 body
 {
 	background-color:rgb(250,250,255);
+	background-image: url("/Church-program/img/Christmaswpp2.jpg");
 	margin:0%;
 	font-family:Helvetica;
 }
@@ -73,6 +74,7 @@ h1
 	padding-top:10px;
 	padding-bottom:10px;
 	text-align:center;
+	color: white;
 
 }
 .program{

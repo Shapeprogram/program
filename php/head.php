@@ -9,6 +9,6 @@
 </head>
 <body>
     <header>
-    <img src="./img/Churchshapelogo.jpg" alt="Church logo" id="bann">
+    <img src="./img/Churchshapelogocm.jpg" alt="Church logo" id="bann">
     </header>
 	<section id="midlane">
