@@ -37,7 +37,7 @@ if(file_exists($head))
 
         <p class="fs-3"><strong>Closing remarks </strong>: President McCormick </p>
 
-        <p class="fs-3"><strong>Closing Hymn </strong>: 204 Silent Night </p>
+        <p class="fs-3"><strong>Closing Hymn </strong>: 205 Once in Royal David's City </p>
 
         <p class="fs-3"><strong>Closing prayer </strong>: By invitation </p>
     </div>
