@@ -5,22 +5,22 @@ if(file_exists($head))
   include($head);
 }
 ?>
-    <h1>Church Program - 02 January 2022</h1>
+    <h1>Church Program - 09 January 2022</h1>
     <div class="program">
         <h2>Program</h2>
-        <p class="fs-3"><strong>Opening hymn </strong>: 217 come let us anew   </p>
+        <p class="fs-3"><strong>Opening hymn </strong>: 9 - Come, Rejoice   </p>
 
         <p class="fs-3"><strong>Opening prayer </strong> : By invitation</p>
 
-        <p class="fs-3"><strong>Sacrament hymn </strong>: 188 thy will, o lord, be done </p>
+        <p class="fs-3"><strong>Sacrament hymn </strong>: 180 - Father in Heaven, We Do Believe  </p>
 
-        <!--<p class="fs-3"><strong>Speaker </strong>: Melissa Heaton </p>
+        <p class="fs-3"><strong>Speaker </strong>: Sister Talevinukuleka  </p>
 
-        <p class="fs-3"><strong>Intermediate hymn </strong>: 202 O Come All Ye Faithful  </p>
+        <p class="fs-3"><strong>Intermediate hymn </strong>: 75 - In Hymns of Praise  </p>
 
-        <p class="fs-3"><strong>Speaker </strong>: Ivo Marien</p>-->
+        <p class="fs-3"><strong>Speaker </strong>: Brother Talevinukuleka </p>
 
-        <p class="fs-3"><strong>Closing Hymn </strong>: 220 lord, i would follow thee</p>
+        <p class="fs-3"><strong>Closing Hymn </strong>: 128 - When Faith Endures</p>
 
         <p class="fs-3"><strong>Closing prayer </strong>: By invitation </p>
     </div>
