@@ -8,19 +8,19 @@ if(file_exists($head))
     <h1>Church Program - 16 January 2022</h1>
     <div class="program">
         <h2>Program</h2>
-        <p class="fs-3"><strong>Opening hymn </strong>: 70 Sing to Praise Him    </p>
+        <p class="fs-3"><strong>Opening hymn </strong>: 243 Let us all Press </p>
 
         <p class="fs-3"><strong>Opening prayer </strong> : By invitation</p>
 
-        <p class="fs-3"><strong>Sacrament hymn </strong>: 176 ’Tis Sweet to Sing the Matchless Love   </p>
+        <p class="fs-3"><strong>Sacrament hymn </strong>: 186 Again we meet around the board </p>
 
-        <p class="fs-3"><strong>Speaker </strong>: Sister Trujillo  </p>
+        <p class="fs-3"><strong>Speaker </strong>: Sister Burton</p>
 
-        <p class="fs-3"><strong>Intermediate hymn </strong>: 235 Should You Feel Inclined to Censure   </p>
+        <p class="fs-3"><strong>Intermediate hymn </strong>: 66 Rejoice, The Lord is King!</p>
 
-        <p class="fs-3"><strong>Speaker </strong>: Brother Cole  </p>
+        <p class="fs-3"><strong>Speaker </strong>: Elder Smith</p>
 
-        <p class="fs-3"><strong>Closing Hymn </strong>: 45 Lead me into Eternal Life </p>
+        <p class="fs-3"><strong>Closing Hymn </strong>: 218 We give thee but Thine Own </p>
 
         <p class="fs-3"><strong>Closing prayer </strong>: By invitation </p>
     </div>
@@ -36,3 +36,4 @@ if(file_exists($head))
   		include($foot);
 	}
 ?>
+
