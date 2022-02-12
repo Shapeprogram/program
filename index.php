@@ -30,7 +30,7 @@ if(file_exists($head))
         <p class="fs-3">1.<strong>Temple will be closed from 14th of February till 25th of April for maintenance reasons. </strong></p>
         <p class="fs-3">2.<strong>Need for volunteers to chaperone workers in the Hague Temple from 14 February until 22 April. </strong></p>
         <p class="fs-3">3.<strong>Branch Youth Council 13 Feb after church </strong></p>
-        <p class="fs-3">3.<strong>Branch Conference on 20 Feb 2022 </strong></p>
+        <p class="fs-3">4.<strong>Branch Conference on 20 Feb 2022 </strong></p>
 
     </div>
 <?php 
