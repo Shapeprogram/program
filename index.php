@@ -5,7 +5,7 @@ if(file_exists($head))
   include($head);
 }
 ?>
-    <h1>Church Program - 20 February 2022</h1>
+    <h1>Church Program - 27 February 2022</h1>
     <div class="program">
         <h2>Program</h2>
         <p class="fs-3"><strong>Opening hymn </strong>: 73 Praise the Lord with Heart and Voice </p>
