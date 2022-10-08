@@ -5,10 +5,10 @@ if(file_exists($head))
   include($head);
 }
 ?>
-    <h1>Church Program - 25 September 2022</h1>
+    <h1>Church Program - 09 October 2022</h1>
     <div class="program">
         <h2>Program</h2>
-        <p class="fs-3"><strong>Opening hymn </strong>: #2 the Spirit of God</p>
+        <p class="fs-3"><strong>Opening hymn </strong>: #21 Come listen to prophet's voice </p>
 
         <p class="fs-3"><strong>Opening prayer </strong>: By invitation</p>
 
@@ -21,7 +21,7 @@ if(file_exists($head))
 
         <p class="fs-3"><strong>Speaker </strong>: Greg Stine</p>-->
 
-        <p class="fs-3"><strong>Closing Hymn </strong>: #239 Choose the Right</p>
+        <p class="fs-3"><strong>Closing Hymn </strong>: #19 We thank thee oh God for a Prophet</p>
 
         <p class="fs-3"><strong>Closing prayer </strong>: By invitation</p>
     </div>
