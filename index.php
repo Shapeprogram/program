@@ -13,7 +13,7 @@ if(file_exists($head))
         <p class="fs-3"><strong>Opening prayer </strong>: By invitation</p>
 
         <p class="fs-3"><strong>Sacrament hymn </strong>: #175 O God, the Eternal Father</p>
-	    <p class="fs-3"> The Primary Program</p>
+	    <p class="fs-3"> Bearing of Testimonies</p>
 
         <!--<p class="fs-3"><strong>Speaker </strong>: Ivy Stine</p>
 
