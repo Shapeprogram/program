@@ -5,31 +5,31 @@ if(file_exists($head))
   include($head);
 }
 ?>
-    <h1>Church Program - 09 October 2022</h1>
+    <h1>Church Program - 23 October 2022</h1>
     <div class="program">
         <h2>Program</h2>
-        <p class="fs-3"><strong>Opening hymn </strong>: #21 Come listen to prophet's voice </p>
+        <p class="fs-3"><strong>Opening hymn </strong>: #85 How Firm a Foundation </p>
 
         <p class="fs-3"><strong>Opening prayer </strong>: By invitation</p>
 
-        <p class="fs-3"><strong>Sacrament hymn </strong>: #175 O God, the Eternal Father</p>
-	    <p class="fs-3"> Bearing of Testimonies</p>
+        <p class="fs-3"><strong>Sacrament hymn </strong>: #191 Behold the Great Redeemer Die </p>
+	    
 
-        <!--<p class="fs-3"><strong>Speaker </strong>: Ivy Stine</p>
+        <p class="fs-3"><strong>Speaker </strong>: Elder Ellis</p>
 
-        <p class="fs-3"><strong>Intermediate Hymn </strong>: TBD</p>
+        <p class="fs-3"><strong>Intermediate Hymn </strong>: #304 Teach Me To Walk in the Light</p>
 
-        <p class="fs-3"><strong>Speaker </strong>: Greg Stine</p>-->
+        <p class="fs-3"><strong>Speaker </strong>: Elder Boucaut</p>
 
-        <p class="fs-3"><strong>Closing Hymn </strong>: #19 We thank thee oh God for a Prophet</p>
+        <p class="fs-3"><strong>Closing Hymn </strong>: #220 Lord I Would Follow Thee</p>
 
         <p class="fs-3"><strong>Closing prayer </strong>: By invitation</p>
     </div>
 
     <div class="program">
         <h2>Announcements</h2>
-        <!--<p class="fs-3">1.<strong> Linger Longer After Church</strong></p>
-        <p class="fs-3">2.<strong> General Conference 1-2 October</strong></p>-->
+        <!--<p class="fs-3">1.<strong> Linger Longer After Church</strong></p>-->
+        <p class="fs-3">1.<strong>12 Nov - Branch Temple Trip - Sis Talevinukuleka emailed sign up sheets. </strong></p> 
     </div>
 <?php 
 	$foot='./php/foot.php';
